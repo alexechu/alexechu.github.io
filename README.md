@@ -1,7 +1,9 @@
 ## Welcome to GitHub Pages
 
 Twitter: @alexechu_ http://twitter.com/alexechu_
+
 LinkedIn: http://www.linkedin.com/in/alex-chu-44043991/
+
 Instagram: @recbster https://www.instagram.com/recbster/?hl=en
 
 You can use the [editor on GitHub](https://github.com/alexechu/alexechu/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
